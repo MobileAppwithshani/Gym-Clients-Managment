@@ -1,0 +1,4 @@
+#Wed Jun 12 16:12:35 PKT 2024
+base.0=/Users/mac/Desktop/local_db/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

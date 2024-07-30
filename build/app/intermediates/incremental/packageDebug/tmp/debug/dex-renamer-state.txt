@@ -1,0 +1,4 @@
+#Tue Jul 30 08:35:37 PKT 2024
+base.0=/Users/mac/Desktop/local_db/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
